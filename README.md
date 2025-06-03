@@ -34,6 +34,7 @@ Users should be able to:
 ### Screenshot
 
 ![Project Screenshot](./screenshot.png)
+![Project Screenshot](./screenshot.png)
 
 > Tip: Use Firefox’s "Take a Screenshot" or tools like FireShot to capture your project in action!
 
