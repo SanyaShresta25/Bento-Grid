@@ -33,14 +33,14 @@ Users should be able to:
 
 ### Screenshot
 
-![Project Screenshot](./screenshot.jpg)
+![Project Screenshot](./screenshot.png)
 
 > Tip: Use Firefox’s "Take a Screenshot" or tools like FireShot to capture your project in action!
 
 ### Live Preview
 
-* 💻 **Solution URL**: [See the code](https://your-solution-url.com)
-* 🌐 **Live Site URL**: [View it in action](https://your-live-site-url.com)
+* 💻 **Solution URL**: [See the code](https://github.com/SanyaShresta25/Bento-Grid)
+* 🌐 **Live Site URL**: [View it in action](https://bento-grid-tau-dusky.vercel.app/)
 
 ---
 
@@ -69,9 +69,9 @@ I learned how to use CSS Grid effectively to structure a visually engaging, resp
 
 ### 👨‍💻 Author
 
-* Portfolio – [Your Name](https://your-portfolio-site.com)
-* Frontend Mentor – [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-* Twitter – [@yourusername](https://twitter.com/yourusername)
+* Portfolio – [Sanya Shresta Jathanna](https://sanyashresta.netlify.app/)
+* Frontend Mentor – [@SanyaShresta25](https://www.frontendmentor.io/profile/SanyaShresta25)
+* Twitter – [@sanya_shresta](https://x.com/sanya_shresta)
 
 ---
 
@@ -80,7 +80,6 @@ I learned how to use CSS Grid effectively to structure a visually engaging, resp
 Big shoutout to:
 
 * 🎨 The designers of the Bento concept — stunning work!
-* 💬 Fellow developers on Discord/Reddit who helped brainstorm layout decisions.
 * ☕ Coffee, for being my co-pilot through it all.
 
 
