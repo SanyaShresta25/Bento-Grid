@@ -40,13 +40,8 @@ Users should be able to:
 
 ### Live Preview
 
-<<<<<<< HEAD
 * 💻 **Solution URL**: [See the code](https://github.com/SanyaShresta25/Bento-Grid)
 * 🌐 **Live Site URL**: [View it in action](https://bento-grid-tau-dusky.vercel.app/)
-=======
-* 💻 **Solution URL**: [See the code](https://your-solution-url.com)
-* 🌐 **Live Site URL**: [View it in action](https://your-live-site-url.com)
->>>>>>> 4ed343970f541774f45a60491e35ad72c391383a
 
 ---
 
@@ -75,15 +70,9 @@ I learned how to use CSS Grid effectively to structure a visually engaging, resp
 
 ### 👨‍💻 Author
 
-<<<<<<< HEAD
 * Portfolio – [Sanya Shresta Jathanna](https://sanyashresta.netlify.app/)
 * Frontend Mentor – [@SanyaShresta25](https://www.frontendmentor.io/profile/SanyaShresta25)
 * Twitter – [@sanya_shresta](https://x.com/sanya_shresta)
-=======
-* Portfolio – [Your Name](https://your-portfolio-site.com)
-* Frontend Mentor – [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-* Twitter – [@yourusername](https://twitter.com/yourusername)
->>>>>>> 4ed343970f541774f45a60491e35ad72c391383a
 
 ---
 
@@ -92,10 +81,6 @@ I learned how to use CSS Grid effectively to structure a visually engaging, resp
 Big shoutout to:
 
 * 🎨 The designers of the Bento concept — stunning work!
-<<<<<<< HEAD
-=======
-* 💬 Fellow developers on Discord/Reddit who helped brainstorm layout decisions.
->>>>>>> 4ed343970f541774f45a60491e35ad72c391383a
 * ☕ Coffee, for being my co-pilot through it all.
 
 
